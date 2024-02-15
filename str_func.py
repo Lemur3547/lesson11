@@ -3,6 +3,7 @@ def caps_lock(text):
     Функция делает все буквы заглавными
     """
     return text.upper()
+    # Пофиксили баги
 
 
 def first_letter(text):
